@@ -1,18 +1,18 @@
-### Hi there 👋
+# Bruno Saibert :man_technologist:
 
-Front-End Developer React at Paraná Banco S/A | Studying React.js, Node.js and React Native at Rocketseat
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoSaibert)](https://github.com/BrunoSaibert)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohenriquesaibert/)](https://www.linkedin.com/in/brunohenriquesaibert/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bh_saibert)](https://twitter.com/bh_saibert)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)](https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosaibert@gmail.com)](mailto:brunosaibert@gmail.com)
 
-<!--
-**BrunoSaibert/BrunoSaibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 👨‍🚀 [brunosaibert.com.br](https://brunosaibert.com.br/)
 
-Here are some ideas to get you started:
+### Olá! 👋 Bem-vindo ao meu perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Bruno e sou desenvolvedor front-end.
+
+- 🚀 Trabalho no **Paraná Banco**
+- ❤ Apaixonado por JavaScript
+- 🛠 Techs: Node.js, React e React Native
+- 📚 Atualmente aprendendo TypeScript e Testes automatizados
