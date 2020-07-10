@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Front-End Developer React at Paraná Banco S/A | Studying React.js, Node.js and React Native at Rocketseat
+
 <!--
 **BrunoSaibert/BrunoSaibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
