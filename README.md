@@ -9,7 +9,11 @@
 
 ### Olá! 👋 Bem-vindo ao meu perfil
 
-Meu nome é Bruno e sou desenvolvedor front-end.
+📰 Meu nome é Bruno, sou desenvolvedor Front-End, curitibano, tenho 29 anos e sou casado. Desde 2014 atuo como desenvolvedor.
+
+🎓 Sou Técnico em Informática pelo Senai-PR (2014) e Tecnólogo em Produção Multimídia pela Faculdade Opet (2017).
+
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSaibert&show_icons=true&theme=dracula)
 
 - 🚀 Trabalho no **Paraná Banco**
 - ❤ Apaixonado por JavaScript
