@@ -12,9 +12,12 @@
 
 🎓 Sou Técnico em Informática pelo Senai-PR (2014) e Tecnólogo em Produção Multimídia pela Faculdade Opet (2017).
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSaibert&show_icons=true&theme=dracula)
-
 - 🚀 Trabalho no **Paraná Banco**
 - ❤ Apaixonado por JavaScript
 - 🛠 Techs: Node.js, React e React Native
 - 📚 Atualmente aprendendo TypeScript e Testes automatizados
+
+
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSaibert&show_icons=true&theme=dracula)
+
+![Bruno's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSaibert&layout=compact&theme=dracula&hide=java)
