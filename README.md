@@ -20,4 +20,4 @@
 
 ![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSaibert&show_icons=true&theme=dracula)
 
-![Bruno's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSaibert&layout=compact&theme=dracula&hide=java)
+![Bruno's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSaibert&layout=compact&theme=dracula&hide=java,objective-c)
